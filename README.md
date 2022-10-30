@@ -2,7 +2,7 @@
 
 <div style="display:flex">
 
-![Profile Picture](https://photos.app.goo.gl/eBwywGxf7S13ZdBT6)
+![Profile Picture](P.png)
 
  </div>
 
