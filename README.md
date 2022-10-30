@@ -2,7 +2,7 @@
 
 <div style="display:flex">
 
-![Profile Picture](P.png)
+![Profile Picture](P.png,q_auto:best,c_limit/w_400)
 
  </div>
 
