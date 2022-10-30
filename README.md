@@ -1,8 +1,10 @@
-[Portfolio](https://okikio.dev) \| [About](#about) \| [Contact](#contact) \| [Blog](https://blog.okikio.dev)
-<h1 align="center">Hi 👋, I'm Cyrus Bhandari</h1>
-<h4 align="center">A passionate computer science student from India</h4>
+# Hello, I’m **Okiki.**
 
-- 👨‍💻 I’m currently workings with **ReactJS**
+<div style="display:flex">
+
+![Profile Picture](https://photos.app.goo.gl/eBwywGxf7S13ZdBT6)
+
+ </div>
 
 
 <h3 align="left">Languages and Tools:</h3>
