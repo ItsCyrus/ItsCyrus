@@ -2,9 +2,7 @@
 
 <div style="display:flex">
 
-<img w=400px src="P.png">
-
-![Profile Picture](P.png,q_auto:best,c_limit/w_400)
+<img w=200px src="P.png">
 
  </div>
 
