@@ -1,3 +1,4 @@
+[Portfolio](https://okikio.dev) \| [About](#about) \| [Contact](#contact) \| [Blog](https://blog.okikio.dev)
 <h1 align="center">Hi 👋, I'm Cyrus Bhandari</h1>
 <h4 align="center">A passionate computer science student from India</h4>
 
