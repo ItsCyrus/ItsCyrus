@@ -1,10 +1,38 @@
-# Hello, I’m **Okiki.**
+`[Portfolio](https://okikio.dev) \| [About](#about) \| [Contact](#contact) \`
+
+
+# Hello, I’m **Cyrus.**
 
 <div style="display:flex">
 
 <img w=200px src="P.png">
 
- </div>
+
+## About.
+
+Hey, I am Cyrus Bhandari, I'm a Software Engineering student, a web developer, an avid fan of open source, and a tech enthusiast. I am always eager to take on new challenges, and aim to exceed in all tasks I take on.
+
+### Skills
+
+I have experience in Next.js, React, Javascript, Typescript, CSS/SASS, HTML, Node.js, C, C++ and more… All in all, I prefer to learn skills as I need them, so I can focus on finding solutions to problems.
+
+
+## Featured Projects.
+
+
+| [bundlejs](https://bundlejs.com)                     | [joesphojo](https://josephojo.com/)                                   | [jabodent](https://jabodent.com)                      | [reindeere](https://reindeere.ca)                       |
+| :--------------------------------------------------- | :-------------------------------------------------------------------- | :---------------------------------------------------- | :------------------------------------------------------ |
+| [@okikio/animate](https://native.okikio.dev/animate) | [@okikio/native](https://native.okikio.dev/native)                    | [spring-easing](https://spring-easing.okikio.dev)     | [@okikio/sharedworker](https://sharedworker.okikio.dev) |
+| [Codepen Projects](https://codepen.com/okikio)       | [Legacy Projects](https://www.khanacademy.org/profile/liteo/projects) | [More...](https://github.com/okikio?tab=repositories) |                                                         |
+
+
+
+## Contact.
+
+| [LinkedIn](linkedin.com/in/cyrusbh/)         | [Twitter](https://twitter.com/cyrus_twr)
+| :----------------------------------------------------- | :---------------------------------------- | :----------------------------------------------------- | :--------------------------------------------------------------------------- |
+| [GitHub](https://github.com/Cyrus-GHub)                     | [Email](mailto:itscyrusb@gmail.com.dev)            |                                                        |                                                                              |
+
 
 
 <h3 align="left">Languages and Tools:</h3>
