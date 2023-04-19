@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyrus Bhandari</h1>
-<h4 align="center">A passionate computer science student from India</h4>
+<h4 align="center">I'm a Computer Science student with a passion for <b>Data Science and Analytics.<b></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
