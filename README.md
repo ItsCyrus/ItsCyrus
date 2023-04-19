@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyrus Bhandari</h1>
 <p>I'm a Computer Science student with a passion for <b>Data Science and Analytics.<b></p>
-<br>
-<a href="itscyrus.github.io/resume.html">View my resume<a/>
+<a href="https://itscyrus.github.io/resume.html" target=”_blank”>View my resume<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
